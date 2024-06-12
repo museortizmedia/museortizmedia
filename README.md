@@ -1,8 +1,8 @@
 ![GitHub followers](https://img.shields.io/github/followers/museortizmedia)
 
-## Hola! Soy Diego Ortiz 👋,
+## <img src="https://cdn.icon-icons.com/icons2/2087/PNG/512/colombia_icon_127815.png" alt="drawing" height="20"/> Hola! Soy Diego Ortiz 👋,
 
-### <img src="https://cdn.icon-icons.com/icons2/2087/PNG/512/colombia_icon_127815.png" alt="drawing" height="20"/>  Multimedia Engineer & Coder
+### Multimedia Engineer & Coder
 [![Banner](https://mir-s3-cdn-cf.behance.net/c4441e6712398ce6e0c401509a520a17/1fa0963f-eb21-4ae0-8e40-61f4d14e914c_rwc_168x4x1996x393x3200.png?h=8e58cb30d5fbec101e3ab8fd62970904 "Welcome to mi profile")](https://museortizmedia.github.io/)
 
 Soy ingeniero en multimedia con una sólida formación en el desarrollo de videojuegos. Desde que descubrí la multimedia en 2018, me he dedicado a perfeccionar mis habilidades en diversas herramientas y lenguajes de programación. Mi experiencia abarca desde el diseño gráfico y la edición de video hasta la programación avanzada y el desarrollo de software interactivo.
