@@ -2,12 +2,12 @@
 
 ## Hola! Soy Diego Ortiz 👋,
 
-### Multimedia Engineer & Coder
+### Multimedia Engineer & Coder 💼
 [![Banner](https://mir-s3-cdn-cf.behance.net/c4441e6712398ce6e0c401509a520a17/1fa0963f-eb21-4ae0-8e40-61f4d14e914c_rwc_168x4x1996x393x3200.png?h=8e58cb30d5fbec101e3ab8fd62970904 "Welcome to mi profile")](https://museortizmedia.github.io/)
 
 Soy ingeniero en multimedia con una sólida formación en el desarrollo de videojuegos. Desde que descubrí la multimedia en 2018, me he dedicado a perfeccionar mis habilidades en diversas herramientas y lenguajes de programación. Mi experiencia abarca desde el diseño gráfico y la edición de video hasta la programación avanzada y el desarrollo de software interactivo.
 
-## Dominio
+## Dominio 🚀
 ### Creative
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
@@ -59,6 +59,6 @@ Soy ingeniero en multimedia con una sólida formación en el desarrollo de video
 
 
 
-## Contacto y Apoyo
+## Contacto y Apoyo 📬
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/museortizmedia)   
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/museortiz)
