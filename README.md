@@ -1,6 +1,4 @@
-<img src="https://cdn.icon-icons.com/icons2/2087/PNG/512/colombia_icon_127815.png" alt="Colombia" height="20"/> 
-
-# 👋 Hi! I'm Diego Ortiz  
+# 👋 Hi! I'm Diego Ortiz  <img src="https://cdn.icon-icons.com/icons2/2087/PNG/512/colombia_icon_127815.png" alt="Colombia" height="20"/> 
 
 ### 🎓 Multimedia Engineer & Creative Developer  
 [![Banner](https://mir-s3-cdn-cf.behance.net/c4441e6712398ce6e0c401509a520a17/1fa0963f-eb21-4ae0-8e40-61f4d14e914c_rwc_168x4x1996x393x3200.png?h=8e58cb30d5fbec101e3ab8fd62970904)](https://museortizmedia.github.io/)
@@ -78,9 +76,7 @@ Passionate about clean code, modular architecture, and creative technologies.
 ---
 ---
 
-<img src="https://cdn.icon-icons.com/icons2/2087/PNG/512/colombia_icon_127815.png" alt="Colombia" height="20"/> 
-
-# 👋 ¡Hola! Soy Diego Ortiz  
+# 👋 ¡Hola! Soy Diego Ortiz  <img src="https://cdn.icon-icons.com/icons2/2087/PNG/512/colombia_icon_127815.png" alt="Colombia" height="20"/> 
 
 ### 🎓 Multimedia Engineer & Creative Developer  
 [![Banner](https://mir-s3-cdn-cf.behance.net/c4441e6712398ce6e0c401509a520a17/1fa0963f-eb21-4ae0-8e40-61f4d14e914c_rwc_168x4x1996x393x3200.png?h=8e58cb30d5fbec101e3ab8fd62970904)](https://museortizmedia.github.io/)
