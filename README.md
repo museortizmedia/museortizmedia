@@ -1,5 +1,4 @@
-<img src="https://cdn.icon-icons.com/icons2/2087/PNG/512/colombia_icon_127815.png" alt="Colombia" height="20"/>  
-![GitHub followers](https://img.shields.io/github/followers/museortizmedia?style=social)
+<img src="https://cdn.icon-icons.com/icons2/2087/PNG/512/colombia_icon_127815.png" alt="Colombia" height="20"/> 
 
 # 👋 Hi! I'm Diego Ortiz  
 
@@ -79,8 +78,7 @@ Passionate about clean code, modular architecture, and creative technologies.
 ---
 ---
 
-<img src="https://cdn.icon-icons.com/icons2/2087/PNG/512/colombia_icon_127815.png" alt="Colombia" height="20"/>  
-![GitHub followers](https://img.shields.io/github/followers/museortizmedia?style=social)
+<img src="https://cdn.icon-icons.com/icons2/2087/PNG/512/colombia_icon_127815.png" alt="Colombia" height="20"/> 
 
 # 👋 ¡Hola! Soy Diego Ortiz  
 
